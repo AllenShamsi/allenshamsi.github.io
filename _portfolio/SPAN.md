@@ -17,7 +17,7 @@ SPAN supports exploratory data analysis, manual and semi-automatic annotation, a
 ## Highlights
 - Synchronized waveform / spectrogram / EMA trajectories with shared cursor
 - Gesture & landmark annotation workflows
-- Template alignment using Dynamic Time Warping (DTW), including multi-anchor support
+- Template alignment using DTW, including multi-anchor support
 - 3D sensor visualization for articulator motion inspection
 
 ## Links
