@@ -23,7 +23,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "allen.jpg"
+  avatar           : "profile.png"
   name             : "Allen Shamsi"
   pronouns         : # example: "she/her"  
   bio              : "Linguistics PhD candidate at UF studying speech production, perception, and motor learning using articulatory and acoustic methods."
